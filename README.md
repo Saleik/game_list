@@ -4,4 +4,4 @@
 
 Mini-project to start coding React with TypeScript
 
-(https://game-list.sarrazin-kevin.fr/"Game List")
+[Game List](https://game-list.sarrazin-kevin.fr/)
